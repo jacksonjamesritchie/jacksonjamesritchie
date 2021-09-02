@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jacksonjamesritchie
-- 👀 I’m interested in Unix, Python, Data Analysis, Algorithmic Trading
+- 👀 I’m interested in Unix, Python, Data Analysis
 - 🌱 I’m currently learning Unix (via Coursera; The Unix Workbench)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on anything & everything
+- 📫 How to reach me - 
 
 <!---
 jacksonjamesritchie/jacksonjamesritchie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
